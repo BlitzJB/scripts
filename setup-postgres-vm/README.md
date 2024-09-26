@@ -23,7 +23,7 @@ This script automates the process of setting up a virtual machine with Docker an
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/scripts.git
+   git clone https://github.com/BlitzJB/scripts.git
    cd scripts
    ```
 

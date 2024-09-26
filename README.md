@@ -28,13 +28,13 @@ This script automates the process of setting up a virtual machine with Docker an
 - Generates secure, random passwords
 - Provides connection URLs for both databases
 
-For detailed information on using this script, please refer to its specific [README](postgres/README.md).
+For detailed information on using this script, please refer to its specific [README](setup-postgres-vm/README.md).
 
 ## Getting Started
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/scripts.git
+   git clone https://github.com/BlitzJB/scripts.git
    cd scripts
    ```
 
