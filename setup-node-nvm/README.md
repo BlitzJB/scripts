@@ -117,4 +117,4 @@ This is particularly useful for developers working on multiple projects that req
 
 ## Security Note
 
-This script downloads and executes code from the internet. Always review scripts before running them on your system. You can view the script content at: https://raw.githubusercontent.com/BlitzJB/scripts/main/setup-nvm-node/setup-nvm-node.sh
+This script downloads and executes code from the internet. Always review scripts before running them on your system. You can view the script content at: https://raw.githubusercontent.com/BlitzJB/scripts/refs/heads/main/setup-node-nvm/script.sh

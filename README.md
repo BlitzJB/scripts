@@ -72,7 +72,7 @@ curl -fsSL https://raw.githubusercontent.com/BlitzJB/scripts/main/setup-nvm-node
 
 2. Navigate to the script you want to use:
    ```bash
-   cd setup-nvm-node  # or setup-postgres-vm
+   cd setup-node-nvm  # or setup-postgres-vm
    ```
 
 3. Follow the instructions in the script-specific README.
